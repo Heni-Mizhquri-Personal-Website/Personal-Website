@@ -12,7 +12,7 @@ nav, a{
 }
 
 button {
-  background-color: rgb(221, 154, 199);
+  background-color: rgb(216, 189, 207);
   border: none;
   
 }
@@ -24,7 +24,7 @@ button {
 }
 
 .card {
-    color: rgb(110, 61, 74);
+    color: rgb(218, 174, 185);
     align-items: center !important;
     background-size: contain;
     background-repeat: no-repeat;
